@@ -42,7 +42,7 @@ wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.c
 - VLESS + TCP + XTLS / TLS  + Nginx 及 VLESS + TCP + TLS + Nginx + WebSocket 回落并存模式
 
 ```
-wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/wulabing/Xray_onekey/main/install.sh" && chmod +x install.sh && bash install.sh
+wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/esaaprillia/Xray_onekey/main/install.sh" && chmod +x install.sh && bash install.sh
 ```
 
 
